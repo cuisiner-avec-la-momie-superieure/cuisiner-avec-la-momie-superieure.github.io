@@ -33,7 +33,7 @@ input[type="submit"],.tab-grid-left .nav-tabs li a,.agileits_services_grid h4,.f
 	-ms-transition: .5s ease-in;
 }
 .banner{
-	background:url(../images/banner.jpg) no-repeat 0px 0px;
+	background:url(../images/banner4.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -43,16 +43,8 @@ input[type="submit"],.tab-grid-left .nav-tabs li a,.agileits_services_grid h4,.f
 .banner,.banner-Info{
 	min-height:700px;
 }
-.banner-Info{
-	background: url(../images/dott.png)repeat 0px 0px;
-    background-size: 4px;
-    -webkit-background-size: 4px;
-    -moz-background-size: 4px;
-    -o-background-size: 4px;
-    -ms-background-size: 4px;
-}
 .w3l_banner_info{
-	text-align:center;
+	text-align:left;
 	padding:14em 0 0;
 }
 .w3l_banner_info p{
